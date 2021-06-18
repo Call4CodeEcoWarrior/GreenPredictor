@@ -1,0 +1,58 @@
+{
+    "productname": "abc",
+    "product category": "fruit",
+    "forcastinfo": {
+        "yoy": {
+            "startdate": "01-apr-2020",
+            "enddate": "31-mar-2021",
+            "forecast": "29.0%",
+            "actual": "24.6%",
+            "previous": "42.4%",
+            "status": "declined",
+            "change%": "-1%"
+        },
+        "mom": {
+            "startdate": "01-apr-2020",
+            "enddate": "31-mar-2021",
+            "forecast": "29.0%",
+            "actual": "24.6%",
+            "previous": "42.4%",
+            "status": "declined",
+            "change%": "-1%"
+        },
+        "wow": {
+            "startdate": "01-apr-2020",
+            "enddate": "31-mar-2021",
+            "forecast": "29.0%",
+            "actual": "24.6%",
+            "previous": "42.4%",
+            "status": "declined",
+            "change%": "-1%"
+        },
+        "top10suppliers": [
+            {
+                "suppliers": [
+                    {
+                        "supplier1": {
+                            "suppliername": "abc",
+                            "address": "xyz",
+                            "items": [
+                                {
+                                    "item": {
+                                        "itemname": "mango",
+                                        "itemcode": "mang-in-badam",
+                                        "available qty": "5mt",
+                                        "cost": {
+                                            "cost item per unit": "1000rs",
+                                            "unit size": "1quintal"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
