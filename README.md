@@ -54,7 +54,7 @@ Also the abudance of produce can be provided to the NGO's who work with below pr
 
 [![Watch the video](./images/Thumbnail.png)](https://www.youtube.com/watch?v=uCaI4PbG8e4)
 
-[link text]https://www.youtube.com/watch?v=uCaI4PbG8e4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCaI4PbG8e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The architecture
 
