@@ -33,7 +33,9 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+Food and Agriculture industies across the world face the challenge of wastage of fresh produce fruits and vegatebles. Regions with abundance of the produce are not able to consume and so they get decomposed and waste. And other regions due to shortage are not able to consume these produce even if in demand. 
+
+d Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
 
 ### How can technology help?
 
