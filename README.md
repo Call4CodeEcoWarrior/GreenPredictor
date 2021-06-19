@@ -53,6 +53,10 @@ Also the abudance of produce can be provided to the NGO's who work with below pr
 
 [![Watch the video](./images/Thumbnail.JPG)](https://www.youtube.com/watch?v=uCaI4PbG8e4)
 
+
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+
+
 ## The architecture
 
 ![alt](./images/Architecture.png)
