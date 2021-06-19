@@ -18,7 +18,6 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
@@ -33,17 +32,21 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Food and Agriculture industies across the world face the challenge of wastage of fresh produce fruits and vegatebles. Regions with abundance of the produce are not able to consume and so they get decomposed and waste. And other regions due to shortage are not able to consume these produce even if in demand. 
+Food and Agriculture industries across the world face the challenge of wastage of fresh produce fruits and vegetables. Regions with abundance of the produce are not able to consume and so they get decomposed and waste. And other regions due to shortage are not able to consume these produce even if in demand. 
 
-d Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+with the help of Predictive analysis and learning from the historical data, Watson machine learning API can predict the demands from various regions. And these can be matched with the supplier regions to balance the stock and distribute. 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+The producers which are normally the farmers will be listing there produce on the application and provide the expected quantity and timelines. The application will update the inventory to reflect the stocks and regions. The Watson API will analyze the regional stocks and current and historical demands from the historical data and do the predictive analysis. Based on this, Green Predictor app will send Push Notifications to  the distributors for the availability of the produce. Distributors would be able to pull the Stock reports and regions and place the orders as per the order book from stores. The Watson API would find the shortest path to  regional distributor and arrange to supply the produce as per the demands. This will make sure the produce stays safe and travels less. 
+
+This will let the regions with additional produce benefit monetarily and at the same time help other regions to meet there demands.
+
+The app will be used by the farmers to understand the demands from the market and based on that they can plan the cultivation. 
+
 
 ## Demo video
 
@@ -58,9 +61,7 @@ It's imperative that learning and creating can continue when educational institu
 3. Watson Translation (optionally) can translate the text to the desired language.
 4. The app stores the translated text as a document within Object Storage.
 
-## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
 
@@ -70,11 +71,8 @@ The project currently does the following things.
 - Feature 2
 - Feature 3
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
+It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift.
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
-
-![Roadmap](./images/roadmap.jpg)
 
 ## Getting started
 
@@ -84,18 +82,14 @@ In this section you add the instructions to run your project on your local machi
 - [sample-angular-app](./sample-angular-app/)
 - [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 
 ## Built with
 
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 - [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 - [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 
 ## Contributing
 
@@ -105,18 +99,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
