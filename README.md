@@ -32,6 +32,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
+Rs 13,300 crore vegies and fruit is wasted annually where as 14% of the population is undernourished in india.
 Food and Agriculture industries across the world face the challenge of wastage of fresh produce fruits and vegetables. Regions with abundance of the produce are not able to consume and so they get decomposed and waste. And other regions due to shortage are not able to consume these produce even if in demand. 
 
 
@@ -46,7 +47,7 @@ The producers which are normally the farmers will be listing there produce on th
 This will let the regions with additional produce benefit monetarily and at the same time help other regions to meet there demands.
 
 The app will be used by the farmers to understand the demands from the market and based on that they can plan the cultivation. 
-
+Also the abudance of produce can be provided to the NGO's who work with below proverty line to distribute among the needy.
 
 ## Demo video
 
