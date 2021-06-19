@@ -55,7 +55,7 @@ Also the abudance of produce can be provided to the NGO's who work with below pr
 
 ## The architecture
 
-(https://github.com/Call4CodeEcoWarrior/GreenPredictor/tree/main/images/Architecture.png)
+https://github.com/Call4CodeEcoWarrior/GreenPredictor/tree/main/images/Architecture.png
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
